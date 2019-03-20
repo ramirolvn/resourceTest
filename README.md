@@ -34,4 +34,4 @@ git clone https://github.com/ramirolvn/resourceTest.git (ou download do ZIP)
 
 ## Mais informações
 
-Para mais informações como contas, e conveções utilizadas no projeto favor verificar o e-mail. Grato.
+Para mais informações do projeto favor verificar o e-mail. Grato.
