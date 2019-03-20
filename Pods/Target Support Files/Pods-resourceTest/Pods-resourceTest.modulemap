@@ -1,0 +1,6 @@
+framework module Pods_resourceTest {
+  umbrella header "Pods-resourceTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

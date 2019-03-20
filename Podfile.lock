@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireSwiftyJSON (1.0.2):
+    - Alamofire (~> 4.0)
+    - SwiftyJSON (~> 4.0)
+  - Alertift (3.2)
+  - BaseAPI (0.1.5)
+  - GithubAPI (0.0.6):
+    - BaseAPI
+  - LoaderButton (1.0.1)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - AlamofireSwiftyJSON
+  - Alertift (~> 3.0)
+  - GithubAPI
+  - LoaderButton
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireSwiftyJSON
+    - Alertift
+    - BaseAPI
+    - GithubAPI
+    - LoaderButton
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireSwiftyJSON: 74ee3804bed06d07857daf1eeb1615c85dba3997
+  Alertift: df0df24a557e47360180092f5f3fceb675c96b51
+  BaseAPI: 9248feed65933cd20283514e7a9917ecba1b69c0
+  GithubAPI: bc5bfd90489f5138a8d1e00003b18abe31579eb0
+  LoaderButton: e7bbb026b43a813d565ba41da3292590cdd27b99
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 3c3a6e88350256929e0fcb9e12177218a2008ed5
+
+COCOAPODS: 1.7.0.beta.2

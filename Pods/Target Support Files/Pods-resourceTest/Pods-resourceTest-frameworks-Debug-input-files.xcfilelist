@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-resourceTest/Pods-resourceTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireSwiftyJSON/AlamofireSwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/Alertift/Alertift.framework
+${BUILT_PRODUCTS_DIR}/BaseAPI/BaseAPI.framework
+${BUILT_PRODUCTS_DIR}/GithubAPI/GithubAPI.framework
+${BUILT_PRODUCTS_DIR}/LoaderButton/LoaderButton.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
