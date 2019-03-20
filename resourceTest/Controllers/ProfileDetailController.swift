@@ -56,7 +56,7 @@ class ProfileDetailController: UIViewController, UITableViewDelegate, UITableVie
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if indexPath.row == 0{
-            debugPrint("Will Edit Profile")
+            debugPrint("Will show User Followers")
         }else{
             if let repos = self.userRepositories{
                 let repository = repos[indexPath.row-1]

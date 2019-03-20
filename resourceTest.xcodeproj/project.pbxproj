@@ -20,7 +20,6 @@
 		999AE799223F0A12003AF6C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 999AE798223F0A12003AF6C1 /* Assets.xcassets */; };
 		999AE79C223F0A12003AF6C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 999AE79A223F0A12003AF6C1 /* LaunchScreen.storyboard */; };
 		F168B654224008E4001ECFF4 /* SearchFooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168B650224008E3001ECFF4 /* SearchFooter.swift */; };
-		F168B656224008E4001ECFF4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168B652224008E4001ECFF4 /* DetailViewController.swift */; };
 		F168B65922400E2E001ECFF4 /* ProfilesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168B65822400E2E001ECFF4 /* ProfilesController.swift */; };
 		F168B65B224028A4001ECFF4 /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168B65A224028A4001ECFF4 /* UserCell.swift */; };
 		F1ED0307223FDE2A00133201 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1ED0306223FDE2A00133201 /* User.swift */; };
@@ -44,7 +43,6 @@
 		AFC11C87EBFA295377DBF287 /* Pods-resourceTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-resourceTest.debug.xcconfig"; path = "Target Support Files/Pods-resourceTest/Pods-resourceTest.debug.xcconfig"; sourceTree = "<group>"; };
 		DB3F2F77EA345AC94A3B3DBB /* Pods-resourceTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-resourceTest.release.xcconfig"; path = "Target Support Files/Pods-resourceTest/Pods-resourceTest.release.xcconfig"; sourceTree = "<group>"; };
 		F168B650224008E3001ECFF4 /* SearchFooter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchFooter.swift; sourceTree = "<group>"; };
-		F168B652224008E4001ECFF4 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		F168B65822400E2E001ECFF4 /* ProfilesController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfilesController.swift; sourceTree = "<group>"; };
 		F168B65A224028A4001ECFF4 /* UserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
 		F1ED0306223FDE2A00133201 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
@@ -145,7 +143,6 @@
 		F179CA8322425FBD00D57DF1 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				F168B652224008E4001ECFF4 /* DetailViewController.swift */,
 				9936FE9A223F0BC600B78803 /* LoginController.swift */,
 				F168B65822400E2E001ECFF4 /* ProfilesController.swift */,
 				992967DC2240764D00C1949E /* ProfileDetailController.swift */,
@@ -275,7 +272,6 @@
 			files = (
 				F168B65922400E2E001ECFF4 /* ProfilesController.swift in Sources */,
 				F168B654224008E4001ECFF4 /* SearchFooter.swift in Sources */,
-				F168B656224008E4001ECFF4 /* DetailViewController.swift in Sources */,
 				999AE792223F0A11003AF6C1 /* AppDelegate.swift in Sources */,
 				991066D022416006009C3B28 /* Theme.swift in Sources */,
 				9936FE9B223F0BC600B78803 /* LoginController.swift in Sources */,

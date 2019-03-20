@@ -10,7 +10,6 @@ class ProfilesController: UIViewController, UITableViewDataSource, UITableViewDe
     @IBOutlet weak var backGroundController: UIView!
     @IBOutlet weak var spinner: UIActivityIndicatorView!
     
-    var detailViewController: DetailViewController? = nil
     var users = [User]()
     var filteredUsers = [User]()
     let searchController = UISearchController(searchResultsController: nil)
